@@ -1,0 +1,4 @@
+*ERROR* 	v1.7.6.2	2020/03/02 - 00:09:14: La propiedad OrderDetail->product_name no es válida at line 1003 in file classes/ObjectModel.php
+*ERROR* 	v1.7.6.2	2020/03/02 - 08:20:57: La propiedad OrderDetail->product_name no es válida at line 1003 in file classes/ObjectModel.php
+*ERROR* 	v1.7.6.2	2020/03/02 - 10:39:36: La propiedad OrderDetail->product_name no es válida at line 1003 in file classes/ObjectModel.php
+*ERROR* 	v1.7.6.2	2020/03/02 - 20:27:31: La propiedad OrderDetail->product_name no es válida at line 1003 in file classes/ObjectModel.php

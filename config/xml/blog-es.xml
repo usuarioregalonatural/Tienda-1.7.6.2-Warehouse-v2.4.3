@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>COVID-19: situación relativa a las entregas a domicilio y los transportistas</title>
+    <link>https://www.prestashop.com/es/situacion-entregas-transportistas-covid-19</link>
+    <description>Siguiendo las diversas medidas tomadas por los gobiernos europeos para hacer frente a la epidemia COVID-19, el eCommerce se encuentra en una situación sin precedentes, por no decir compleja, depend</description>
+     <pubDate>Thu, 19 Mar 2020 17:16:33 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/situacion-entregas-transportistas-covid-19</guid>
+  </item>
+  <item>
+    <title>¿Qué es la experiencia del cliente y cómo mejorarla en la web de tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/experiencia-del-cliente</link>
+    <description>Si tienes una tienda online, tu objetivo es vender, pero, en realidad, debes ir un paso más allá y buscar la fidelización a través de la experiencia del cliente.</description>
+     <pubDate>Tue, 17 Mar 2020 19:44:15 +0100</pubDate>
+ <dc:creator>Juan Mahillo Álvarez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/experiencia-del-cliente</guid>
+  </item>
+  <item>
+    <title>Guía de “WhatsApp Live Chat”: el módulo para chatear con tus clientes en tiempo real</title>
+    <link>https://www.prestashop.com/es/blog/whatsapp-live-chat</link>
+    <description>¿Quieres mantener un contacto fluido constantemente a través de tu plataforma online? ¡Con &quot;WhatsApp Live Chat&quot; podrás!</description>
+     <pubDate>Sat, 14 Mar 2020 13:20:44 +0100</pubDate>
+ <dc:creator>Antony Bautista</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/whatsapp-live-chat</guid>
+  </item>
+  <item>
+    <title>5 Mejores plantillas para usar en tu tienda de móviles en PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/mejores-plantillas-tienda-de-moviles</link>
+    <description>¿Tienes pensado montar una tienda de móviles con PrestaShop pero no sabes cómo empezar?</description>
+     <pubDate>Mon, 09 Mar 2020 06:59:57 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/mejores-plantillas-tienda-de-moviles</guid>
+  </item>
+  <item>
+    <title>¿Qué es la cadena de valor de una empresa y cómo aplicarlo a un eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/cadena-de-valor-de-una-empresa</link>
+    <description>¿Conoces cuál es la cadena de valor de tu negocio?</description>
+     <pubDate>Sun, 08 Mar 2020 12:27:43 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/cadena-de-valor-de-una-empresa</guid>
+  </item>
+  <item>
+    <title>Selección de los módulos &amp;quot;Indispensables&amp;quot; de PrestaShop en 2020</title>
+    <link>https://www.prestashop.com/es/blog/prestashop-awards-2020</link>
+    <description>La selección de los mejores modulos y temas disponibles en el marketplace de PrestaShop Addons.</description>
+     <pubDate>Fri, 06 Mar 2020 12:31:46 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-awards-2020</guid>
+  </item>
+  <item>
+    <title>Novedades eCommerce 2020 para tiendas online de PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/novedades-prestashop-2020</link>
+    <description>En este primer trimetre de año, una oleada de novedades para ayudar a los responsables de eCommerce a vender más y mejor</description>
+     <pubDate>Fri, 06 Mar 2020 11:36:09 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/novedades-prestashop-2020</guid>
+  </item>
+  <item>
+    <title>6 Mejores módulos para crear una tienda especializada en PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/modulos-tienda-especializada</link>
+    <description>¿Dispones de un producto, pero no sabes cómo crear tu propia tienda especializada?</description>
+     <pubDate>Thu, 05 Mar 2020 11:32:37 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-tienda-especializada</guid>
+  </item>
+  <item>
+    <title>5 Consejos para aumentar el valor de tu cesta de compra promedio dentro de tu eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/cinco-consejos-para-aumentar-la-cesta-promedio-de-su-sitio-de-e-comercio</link>
+    <description>Aumentar el valor cuantitativo de la cesta de compra promedio es uno de los anhelos de todo responsable de tienda online.</description>
+     <pubDate>Wed, 04 Mar 2020 07:00:28 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/cinco-consejos-para-aumentar-la-cesta-promedio-de-su-sitio-de-e-comercio</guid>
+  </item>
+  <item>
+    <title>¿Qué son los anchor texts y cómo optimizarlos para mi web?</title>
+    <link>https://www.prestashop.com/es/blog/anchor-text</link>
+    <description>Los anchor text de nuestros enlaces internos y externos juegan un papel muy importante a la hora de posicionar una tienda online.</description>
+     <pubDate>Sun, 01 Mar 2020 11:01:37 +0100</pubDate>
+ <dc:creator>Emilio Miguel López - Madre SEOperiora</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/anchor-text</guid>
+  </item>
+  </channel>
+</rss>
